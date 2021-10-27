@@ -1,7 +1,8 @@
 # CRUD
 
-Aplicação criada durante as aulas do curso de desenvolvimento web do professor Leonardo Leitão com as tecnologias webpack, reactjs e json_server
+Aplicação criada durante as aulas do curso de desenvolvimento web do professor Leonardo Leitão com as tecnologias webpack, reactjs e json_server.
 
+Objetivo: armazenar, editar e excluir os dados do usuário.
 
 #Obs:
 
